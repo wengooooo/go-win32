@@ -1,7 +1,7 @@
 package win32
 
 import (
-	"gitee.com/wengo/go-win32/errco"
+	"github.com/wengooooo/go-win32/errco"
 	"golang.org/x/sys/windows"
 	"syscall"
 	"unsafe"
