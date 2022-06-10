@@ -1,4 +1,4 @@
-module gitee.com/wengo/go-win32
+module github.com/wengooooo/go-win32
 
 go 1.18
 
